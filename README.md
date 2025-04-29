@@ -1,2 +1,1 @@
-# FotMobSelenium
-Fotmob Selenium scraper with interactive dashboard visualization.
+WARNING: Uploaded .csv file contains already scraped and merged data from the Top 5 leagues from the latest season at that time (i.e. 2023/2024).  If you wish to scrape your own data, make sure to adjust the league ID and season in the scrapper. If you want to check out the dashboard without altering the data, move to the fourth code block and import the .csv file.
